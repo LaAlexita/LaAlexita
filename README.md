@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laalexita&label=Profile%20views&color=0e75b6&style=flat" alt="laalexita" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laalexita" alt="laalexita" /></a> </p>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313pxmamdg6y2lgkpkuj7a5rad5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
