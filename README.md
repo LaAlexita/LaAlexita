@@ -6,7 +6,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=313pxmamdg6y2lgkpkuj7a5rad5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 </p>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313pxmamdg6y2lgkpkuj7a5rad5a&width={width}">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313pxmamdg6y2lgkpkuj7a5rad5a&count=10">
 </p>
 
 
