@@ -2,6 +2,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laalexita&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaAlexita/LaAlexita/refs/heads/main/974_1x_shots_so.png" alt="Hosting Banner" style="max-width:100%; height:auto;" />
+</p>
+<p align="center">
+  <strong>Co-founder of TG HOSTING, providing reliable and scalable hosting solutions for everyone.
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=laalexita&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
@@ -49,8 +57,5 @@
 
 <h2 align="center">🌐 About Me</h2>
 <p align="center">
-  <img src="https://github.com/LaAlexita/LaAlexita/blob/main/974_1x_shots_so.png" alt="Hosting Banner" style="max-width:100%; height:auto;" />
-</p>
-<p align="center">
-  Co-founder of TG HOSTING, providing reliable and scalable hosting solutions for everyone.
+  Passionate about technology, music, and creating innovative solutions for the digital world.
 </p>
