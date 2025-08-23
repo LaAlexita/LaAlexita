@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/LaAlexita/LaAlexita/refs/heads/main/974_1x_shots_so.png" alt="Hosting Banner" style="max-width:100%; height:auto;" />
 </p>
 <p align="center">
-  <strong>Co-founder of TG HOSTING, providing reliable and scalable hosting solutions for everyone.
+  <strong>24Racks Cloud, providing reliable and scalable hosting solutions for everyone.
 </p>
 
 <p align="center">
