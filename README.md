@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://24racks.com/storage/products/panel.png" alt="Hosting Banner" style="max-width:100%; height:auto;" />
+  <img src="https://github.com/LaAlexita/LaAlexita/blob/main/panel.png?raw=true" alt="Hosting Banner" style="max-width:100%; height:auto;" />
 </p>
 <p align="center">
   <strong>24Racks Cloud, providing reliable and scalable hosting solutions for everyone.
