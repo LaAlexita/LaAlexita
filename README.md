@@ -1,61 +1,65 @@
-<h1 align="center">Hi 👋, I'm Alexita</h1>
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laalexita&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=LaAlexita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/LaAlexita/LaAlexita/blob/main/panel.png?raw=true" alt="Hosting Banner" style="max-width:100%; height:auto;" />
-</p>
-<p align="center">
-  <strong>24Racks Cloud, providing reliable and scalable hosting solutions for everyone.
-</p>
+<h2 align="center">Infraestructura • Networking • Cloud</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laalexita&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
-  </a>
+  <a href="https://24racks.com"><img src="https://img.shields.io/badge/Web-24racks.com-2563eb?style=for-the-badge&logo=icloud&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/24racks-cloud/"><img src="https://img.shields.io/badge/LinkedIn-24racks%20Cloud-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-<h2 align="center">🎶 Spotify Activity</h2>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313pxmamdg6y2lgkpkuj7a5rad5a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313pxmamdg6y2lgkpkuj7a5rad5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=394c38" alt="Spotify Profile" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313pxmamdg6y2lgkpkuj7a5rad5a&count=5" alt="Recently Played on Spotify" />
-</p>
+## 🧠 Sobre mí
+
+Ingeniero orientado a **infraestructura cloud, redes y sistemas**.  
+Fundador de **24racks Cloud S.L.**, donde diseño y opero plataformas de hosting de alto rendimiento con mitigación avanzada de DDoS.
+
+- 🔧 Administración Linux y Windows
+- 🌐 Diseño y operación de red
+- 🛡️ Mitigación Anti-DDoS
+- ⚡ Virtualización KVM / Proxmox
+- 📡 Operación del AS214340
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+## 🏢 Proyecto principal
+
+**24racks Cloud S.L.**  
+Proveedor de hosting e infraestructura cloud en España, enfocado en:
+
+- VPS NVMe de alto rendimiento  
+- Servidores dedicados  
+- Game hosting  
+- Protección Anti-DDoS  
+- Infraestructura propia
+
+🌍 https://24racks.com
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laalexita&show_icons=true&locale=en" alt="GitHub Stats" />
+## 📊 Stack técnico
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,git,github,cloudflare" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laalexita&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laalexita" alt="GitHub Streak" />
-</p>
- -->
+
+**Networking:** MikroTik · Juniper · BGP · GRE · VLAN · PPPoE  
+**Virtualización:** KVM · Proxmox  
+**Hardware:** Dell · HPE · Supermicro
+
 ---
 
-<h2 align="center">🌐 About Me</h2>
+## 📡 Estado
+
+![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen?style=flat)
+![ASN](https://img.shields.io/badge/ASN-AS214340-blue?style=flat)
+![Location](https://img.shields.io/badge/Location-Spain-red?style=flat)
+
+---
+
 <p align="center">
-  Passionate about technology, music, and creating innovative solutions for the digital world.
+  <i>Infraestructura diseñada para no caerse cuando importa.</i>
 </p>
