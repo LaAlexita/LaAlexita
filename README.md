@@ -20,8 +20,7 @@
 
 Estudiante de **ASIR** centrado en redes, sistemas e infraestructura cloud.
 
-Actualmente desarrollo y opero **24racks Cloud S.L.**, donde experimento y despliego infraestructura real de hosting y red.
-
+Actualmente CEO de **24racks Cloud S.L.**
 **Áreas de interés:**
 
 - Administración Linux y Windows  
