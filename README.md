@@ -24,39 +24,39 @@
 
 <br/>
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Estudiante de **ASIR** centrado en redes, sistemas e infraestructura cloud. Actualmente CEO de **24racks Cloud S.L.**, donde llevo la operación de infraestructura real en producción.
 
 ```text
-📍 España
-🎓 Cursando ASIR (Administración de Sistemas Informáticos en Red)
-🏢 CEO @ 24racks Cloud S.L.
-📡 Operador de AS214340
-🌱 Aprendiendo: automatización, observabilidad y diseño de redes a escala
+España
+Cursando ASIR (Administración de Sistemas Informáticos en Red)
+CEO @ 24racks Cloud S.L.
+Operador de AS214340
+Aprendiendo: automatización, observabilidad y diseño de redes a escala
 ```
 
 **Áreas de interés:** Administración Linux/Windows · Networking (BGP, VLAN, GRE, PPPoE) · Virtualización KVM/Proxmox · Mitigación Anti-DDoS · Operación de sistemas autónomos
 
 <br/>
 
-## 🏢 Proyecto principal — 24racks Cloud
+## Proyecto principal — 24racks Cloud
 
 Proveedor de hosting e infraestructura cloud en España, con red e infraestructura propias.
 
 | Servicio | Descripción |
 |---|---|
-| ⚡ **VPS NVMe** | Máquinas virtuales de alto rendimiento |
-| 🖥️ **Servidores dedicados** | Hardware dedicado bajo demanda |
-| 🎮 **Game hosting** | Hosting optimizado para servidores de juego |
-| 🛡️ **Protección Anti-DDoS** | Mitigación a nivel de red |
-| 🌐 **Infraestructura propia** | Red y AS214340 gestionados internamente |
+| **VPS NVMe** | Máquinas virtuales de alto rendimiento |
+| **Servidores dedicados** | Hardware dedicado bajo demanda |
+| **Game hosting** | Hosting optimizado para servidores de juego |
+| **Protección Anti-DDoS** | Mitigación a nivel de red |
+| **Infraestructura propia** | Red y AS214340 gestionados internamente |
 
-🔗 **[24racks.com](https://24racks.com)**
+**[24racks.com](https://24racks.com)**
 
 <br/>
 
-## 📊 Stack técnico
+## Stack técnico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,git,github,cloudflare,bash,python&perline=10" />
@@ -64,39 +64,26 @@ Proveedor de hosting e infraestructura cloud en España, con red e infraestructu
 
 <table>
   <tr>
-    <td><b>🌐 Networking</b></td>
+    <td><b>Networking</b></td>
     <td>MikroTik · Juniper · BGP · VLAN · GRE · PPPoE</td>
   </tr>
   <tr>
-    <td><b>🧱 Virtualización</b></td>
+    <td><b>Virtualización</b></td>
     <td>Proxmox · KVM</td>
   </tr>
   <tr>
-    <td><b>🖥️ Sistemas</b></td>
+    <td><b>Sistemas</b></td>
     <td>Linux · Windows Server · Nginx · MySQL</td>
   </tr>
   <tr>
-    <td><b>🔩 Hardware</b></td>
+    <td><b>Hardware</b></td>
     <td>Dell · HPE · Supermicro</td>
   </tr>
 </table>
 
 <br/>
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaAlexita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=2563eb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaAlexita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaAlexita&theme=tokyonight&hide_border=true&background=0f172a&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
-</p>
-
-<br/>
-
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://24racks.com"><img src="https://img.shields.io/badge/Web-24racks.com-2563eb?style=flat-square&logo=icloud&logoColor=white"></a>
