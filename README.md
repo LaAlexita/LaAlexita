@@ -5,7 +5,7 @@
 
 <!-- ============================ TYPING ============================ -->
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/LaAlexita">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Estudiante+de+ASIR;Sistemas+e+infraestructura+cloud;CEO+%40+24racks+Cloud+S.L.;Operando+el+sistema+aut%C3%B3nomo+AS214340" alt="typing" />
   </a>
 </p>
@@ -15,7 +15,7 @@
   <a href="https://24racks.com"><img src="https://img.shields.io/badge/Web-24racks.com-2563eb?style=for-the-badge&logo=icloud&logoColor=white"></a>
   <a href="https://www.linkedin.com/company/24racks-cloud/"><img src="https://img.shields.io/badge/LinkedIn-24racks%20Cloud-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://img.shields.io/badge/ASN-AS214340-1f2937?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=2563eb&label=Visitas">
+  <img src="https://komarev.com/ghpvc/?username=LaAlexita&style=for-the-badge&color=2563eb&label=Visitas">
 </p>
 
 <br/>
